@@ -82,3 +82,9 @@ List<Vertex> traversalList = bfs.getBreadFirstTraversalList();
 List<Vertex> path = bfs.pathTo(g.getVertex("d"));
 ```
 
+
+## License
+
+This project is for educational purposes only.  
+Starter files were provided by instructors at Flinders University.
+Do not redistribute or use for commercial purposes.
